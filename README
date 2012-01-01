@@ -1,0 +1,26 @@
+Summary
+-------
+Patches aims to be a fully-customizable IDE for developers who prefer 
+working with text editors such as Vim or emacs, but would like to have 
+all of their development tools consolidated into one application for 
+ease of use. Patches does not offer much above and beyond the standard 
+capabilities of the applications it encapsulates, but rather offers a 
+convenience by grouping them all together.
+
+Core Features
+-------------
+- Consolidation of command prompt, text editor, compiler, and any 
+  other (compatible) development tools into one application
+- Customizeable shortcut keys/toolbar buttons for common development 
+  tasks
+- Maximize workspace elements
+- Minimize workspace elements
+- Restore workspace elements
+
+Wishlist Features
+-----------------
+- Drag-and-drop widget creation; drag a window running on the desktop 
+  into Patches and automatically convert that application into a 
+  Patches widget
+- Drag-and-drop widget expansion; drag a widget from Patches onto the 
+  desktop and automatically convert it to a Windows process
